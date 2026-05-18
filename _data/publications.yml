@@ -385,3 +385,36 @@ Year: 1996](https://ieeexplore.ieee.org/document/555332)"
    TI: "Daily generation scheduling: decomposition methods to solve the  hydraulic problems, 1994"
    preprint: "[hal-03636358, 1994](https://hal.archives-ouvertes.fr/hal-03636358)"
    AC: "[International Journal of Electrical Power and Energy Systems, 16(3):175-181, 1994](https://doi.org/10.1016/0142-0615(94)90007-8)"
+-  AU: "J.-P. Quadrat, A. Sulem, J.-P. Chancelier, C. Gomez"
+   TI: "Pandore : un système expert pour l'optimisation de systèmes dynamiques"
+   preprint: "BIGRE n° 70, Septembre 1990"
+-  AU: "Pandore"
+   date: 1989
+   TI: "Un problème dynamique de contrôle optimal en dimension 2 résolu par une méthode de perturbations régulières"
+   preprint: "[Internal report INRIA, 1989](http://jpquadrat.free.fr/PandorePertReguliere.pdf)"
+-  AU: "J. P. Chancelier, C. Gomez, J. P. Quadrat, A. Sulem"
+   date: 1989
+   TI: "PANDORE. Advanced computed concepts and techniques"
+   preprint: "[in Control Engineering NATO ASI, Series F, Vol. 47, édité par M. J. Denham et A. J. Laub, 1989](http://jpquadrat.free.fr/Pandore.pdf)"
+-  AU: "J. P. Chancelier, C. Gomez, J. P. Quadrat, A. Sulem"
+   date: 1989
+   TI: "An Expert System for stochastic control problems : Automatic report generation"
+   AC: "[Computer Science in Economics and Management 2  p. 65-82, Kluwer Academic Publishers, 1989](https://doi.org/10.1007/BF00454705)"
+-  AU: "J.P. Chancelier, C. Gomez, J.P. Quadrat, A. Sulem"
+   date: 1988
+   TI: "Automatic Study in Stochastic Control"
+   preprint: "[In: Fleming, W., Lions, PL. (eds) Stochastic Differential Systems, Stochastic Control Theory and Applications](https://doi.org/10.1007/978-1-4613-8762-6_5) The IMA Volumes in Mathematics and Its Applications, vol 10. Springer, New York, NY"
+-  AU: "O. Akhrif, G.L. Blankenship, J.-P. Chancelier, C. Gomez, J.-P. Quadrat, A. Sulem"
+   date: 1988
+   TI: "Automatic study in stochastic control"
+   preprint: "[In: Fleming, W., Lions, PL. (eds) Stochastic Differential Systems, Stochastic Control Theory and Applications](https://doi.org/10.1007/978-1-4613-8762-6_5) The IMA Volumes in Mathematics and Its Applications, vol 10. Springer, New York, NY"
+-  AU: "J.-P. Chancelier, C. Gomez, J.-P. Quadrat"
+   date: 1988
+   TI: "MACROFORT, A Fortran program generator"
+   preprint: "Macsyma letters, 1"
+-  AU: "G. Blankenship, J.-P. Chancelier, C.Gomez, A.La Vigna, D.C. ~McEnany, J.P.Quadrat, and A.Sulem"
+   date: 1986
+   TI: "An expert system for control and signal processing with automatic  fortran program generation"
+   preprint: "[MTNS Symposium, Stokholm 1986](/assets/pdf/TR_86-2.pdf)"
+
+
