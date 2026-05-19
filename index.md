@@ -13,7 +13,7 @@ carousels:
 
 {% include cermics-home.html %}
 
-# Work in progress 
+# Work in progress.
 
 <img src="{{ '/assets/images/jpc.jpg' | relative_url }}"
      align="right" hspace="20" vspace="20" width="150"/> 
